@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![skateboard](https://github.com/miclle/miclle/blob/master/assets/skateboard.jpg)
