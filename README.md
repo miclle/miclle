@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![skateboard](https://github.com/miclle/miclle/blob/master/assets/skateboard.jpg)
+[![skateboard](https://github.com/miclle/miclle/blob/master/assets/skateboard.jpg)](https://github.com/miclle/Electric-Wave-Board)
